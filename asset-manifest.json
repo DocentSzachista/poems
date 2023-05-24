@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poems/static/css/main.e8ca3621.css",
+    "main.js": "/poems/static/js/main.f6aa491e.js",
+    "static/js/787.d37de791.chunk.js": "/poems/static/js/787.d37de791.chunk.js",
+    "index.html": "/poems/index.html",
+    "main.e8ca3621.css.map": "/poems/static/css/main.e8ca3621.css.map",
+    "main.f6aa491e.js.map": "/poems/static/js/main.f6aa491e.js.map",
+    "787.d37de791.chunk.js.map": "/poems/static/js/787.d37de791.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ca3621.css",
+    "static/js/main.f6aa491e.js"
+  ]
+}
