@@ -1,5 +1,20 @@
 [
     {
+        "title": "Miłość",
+        "content":"Niby niewiele, Gra warta świeczki, Tylko nieśmiałość...",
+        "date_created": "11.04.2019"
+    },
+    {
+        "title": "Nienawiść",
+        "content": "Niczym sęp, Wypatruje okazji, Aby Cię pochłonąć",
+        "date_created": "11.08.2020"
+    },
+    {
+        "title": "Samotność",
+        "content": "Tak bardzo pragnąc ciepła, Lecz nigdy go nie osiągając, Gaśniesz, niczym ognisko bez opału.",
+        "date_created": "11.08.2020"
+    },
+    {
         "title": "Emocje",
         "content": "Będąc na przepaści, Między dobrem a złem, Mężczyzna wybiera, Niewolnik służy",
         "date_created": "19.04.2023"
